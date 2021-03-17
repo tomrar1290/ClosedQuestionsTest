@@ -1,0 +1,113 @@
+@CHARSET "UTF-8";
+
+*{margin:0px;padding:0px;}
+
+h1
+{
+padding-bottom:5px;	
+}
+
+
+.pytanie
+{
+font-size:12px;
+width:400px;
+}
+
+#strony
+{
+margin-bottom:5px;
+margin-top:10px;
+}
+body
+{
+background:#4a4949;	
+	
+}
+
+option
+{
+padding: 0px 2px;
+}
+
+
+#loguj
+{
+padding:5px;
+
+width:300px;
+font-size:12px;
+margin-left:auto;
+margin-right:auto;
+margin-top:150px;
+background:#bababa;
+border: 1px solid white;
+}
+
+#loguj table
+{
+margin-left:auto;
+margin-right:auto;
+}
+
+#loguj td
+{
+padding:5px;
+}
+
+a:link, a:visited
+{
+margin:3px;
+text-decoration: none;
+color:#3356b8;
+
+}
+
+a:hover
+{
+text-decoration: none;
+color:#616064;
+border: dotted; 
+border-width: 0px 0px 1px 0px;
+}
+
+#glowne
+{
+padding:10px;
+background:#bababa;
+min-height:420px;
+overflow:hidden;
+width:800px;
+margin-top:30px;
+margin-bottom:30px;
+margin-left:auto;
+margin-right:auto;
+border: 1px solid white;
+}
+
+#menu
+{
+
+padding:5px;
+line-height:30px;
+float:left;
+min-height:380px;
+/*border: 1px solid;*/
+width:180px;
+}
+
+#menu ul
+	{
+	list-style:none;
+	}
+#tresc
+{
+line-height:24px;
+font-size:12px;
+padding:5px;
+min-height:380px;
+float:left;
+overflow:hidden;
+/*border: 1px solid;*/
+width:590px;
+}
